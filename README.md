@@ -129,12 +129,3 @@ You can adjust the gas and gas price values in the myContract.methods.send metho
 License
 
 This project is licensed under the MIT License.
-Acknowledgments
-
-    Web3.js Documentation: Refer to the Web3.js documentation for more information on using Web3.js.
-
-    Ethereum Documentation: Explore the Ethereum documentation for in-depth details about Ethereum and smart contracts.
-
-    Ganache - Personal Blockchain for Ethereum Development: Utilize Ganache as a personal blockchain for Ethereum development.
-
-Feel free to contribute, report issues, or suggest improvements. Happy coding!
